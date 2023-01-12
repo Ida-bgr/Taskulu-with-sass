@@ -34,27 +34,6 @@
     margin-bottom: 30px;
   }
 
-  em {
-    display: inline-flex;
-    margin: 0 3px;
-    padding: 0 6px;
-    font-weight: 600;
-    line-height: 1;
-    position: relative;
-    z-index: 0;
-  }
-  em:after{
-    content: '';
-    position: absolute;
-    width: 105%;
-    height: 28px;
-    background-color: $third-color;
-    border-radius: 15px;
-    z-index: -1;
-    top: 20px;
-    right: 2px;
-  }
-
   p {
     text-align: center;
     line-height: 1.8;
@@ -114,7 +93,7 @@
   }
 }
 
-.feature-txt-p {
+.feature-txt-description {
   font-size: 14px;
   font-weight: 500;
   color: $fifth-color;
@@ -124,7 +103,7 @@
 
 .call-to-action-block {
   margin-top: 100px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
   position: relative;
   display: flex;
   align-items: center;
@@ -167,3 +146,121 @@
     background-color: $fourth-color;
   }
 }
+
+.taskulu-possibilities-block {
+  margin-bottom: 200px;
+  border-bottom: 1px solid $eighth-color;
+}
+
+.poss-block-whithout-taskulu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whithout-taskulu-content {
+  display: flex;
+  flex-direction: row-reverse;
+  max-width: 1140px;
+  width: 100%;
+}
+
+.whithout-taskulu-txt {
+  flex-basis: 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.possibilities-title {
+  position: relative;
+  font-size: 26px;
+  font-weight: 600;
+  color: $first-color;
+  line-height: 1.4;
+  z-index: 2;
+  margin-bottom: 15px;
+
+  h2 {
+    font-weight: 700;
+  }
+}
+
+.possibilities-description {
+  font-size: 20px;
+  color: $second-color;
+  line-height: 1.8;
+  font-weight: 400;
+  position: relative;
+}
+
+.whithout-taskulu-img {
+  flex-basis: 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.img-container {
+  position: relative;
+  width: 100%;
+  
+  &:before{
+    content: '';
+    background-image: url('https://taskulu.com/themes/custom/taskulu/assets/images/dots-sq.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 540px;
+    height: 264px;
+    position: absolute;
+    right: -20%;
+    top: -35%;
+    z-index: 0;
+  }
+}
+
+.poss-block-whith-taskulu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whith-taskulu-content {
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: row;
+  max-width: 1140px;
+  width: 100%;
+}
+
+.whith-taskulu-txt {
+  margin-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.whith-taskulu-img {
+  margin-top: 45px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.img-container {
+  position: relative;
+  width: 100%;
+  
+  &:before{
+    content: '';
+    background-image: url('https://taskulu.com/themes/custom/taskulu/assets/images/dots-sq.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 540px;
+    height: 264px;
+    position: absolute;
+    right: -20%;
+    top: -35%;
+    z-index: 0;
+  }
+}
+

@@ -4,3 +4,24 @@
     margin-left: auto;
     margin-right: auto;
   }
+
+  em {
+    display: inline-flex;
+    margin: 0 3px;
+    padding: 0 6px;
+    font-weight: 600;
+    line-height: 1;
+    position: relative;
+    z-index: 0;
+  }
+  em:after{
+    content: '';
+    position: absolute;
+    width: 105%;
+    height: 28px;
+    background-color: $third-color;
+    border-radius: 15px;
+    z-index: -1;
+    top: 20px;
+    right: 1px;
+  }
