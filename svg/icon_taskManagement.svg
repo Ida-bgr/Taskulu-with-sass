@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon_taskManagement" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#18bfff;stroke-linecap:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_875" transform="translate(6 5)">
+        <path id="Path_10840" d="M13 4h6.75A2.236 2.236 0 0 1 22 6.222v15.556A2.236 2.236 0 0 1 19.75 24H6.25A2.236 2.236 0 0 1 4 21.778V6.222A2.236 2.236 0 0 1 6.25 4h7.5" class="cls-1" transform="translate(-4 -4)"/>
+        <path id="Path_10835" d="M10 9.333l-1.875 1.852L7 10.074" class="cls-1" transform="translate(-3.625 -3.407)"/>
+        <path id="Path_10836" d="M13 18h3.375" class="cls-1" transform="translate(-2.875 -2.444)"/>
+        <path id="Path_10837" d="M13 10h3.375" class="cls-1" transform="translate(-2.875 -3.333)"/>
+        <path id="Path_10838" d="M10 13.333l-1.875 1.852L7 14.074" class="cls-1" transform="translate(-3.625 -2.963)"/>
+        <path id="Path_10839" d="M13 14h3.375" class="cls-1" transform="translate(-2.875 -2.889)"/>
+    </g>
+    <path id="Path_10841" fill="none" d="M0 0h30v30H0z"/>
+</svg>

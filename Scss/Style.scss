@@ -148,7 +148,7 @@
 }
 
 .taskulu-possibilities-block {
-  margin-bottom: 200px;
+  margin-bottom: 145px;
   border-bottom: 1px solid $eighth-color;
 }
 
@@ -264,3 +264,109 @@
   }
 }
 
+.flexibility-exceptional-features-block {
+  text-align: center;
+  position: relative;
+}
+
+.flexibility-title-container {
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.flexibility-title {
+  font-size: 25px;
+  font-weight: 600;
+  color: $first-color;
+  position: relative;
+  line-height: 1.2;
+}
+
+.exceptional-features {
+  display: flex;
+}
+
+.exceptional-feature-container {
+  position: relative;
+  display: block;
+  padding: 16px 0;
+  width: 100%;
+  margin: 0;
+}
+
+.exceptional-feature-content {
+  width: 1140px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.slick-list-task-management {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  color: #1e3a58;
+  box-shadow: unset;
+  border-color: unset;
+  width: 285px;
+  max-width: 285px;
+  border-top: solid 5px #2687ed;
+  flex-basis: 24%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: right;
+  vertical-align: middle;
+}
+
+.silck-list-icon {
+  width: 50px;
+  height: auto;
+  border-style: none;
+  margin-right: 10px;
+}
+
+.slick-list-other-icon {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  fill: #acb1c0;
+  box-shadow: unset;
+  border-color: unset;
+  border-top: none;
+  width: 285px;
+  max-width: 285px;
+  flex-basis: 24%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: left;
+  vertical-align: middle;
+}
+
+.slick-list-other-icon-img {
+  width: 50px;
+  height: auto;
+  border-style: none;
+  aspect-ratio: 48 / 48;
+  fill: #acb1c0;
+}
+
+.task-management-text-title {
+  font-size: 17px;
+  font-weight: 400;
+  margin-right: 10px;
+  color: $first-color;
+}
+
+.other-icon-text-title {
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 20px;
+  color: #acb1c0;
+}
+.slick-list-other-icon-img {
+  svg {
+    fill: #acb;
+  }
+}

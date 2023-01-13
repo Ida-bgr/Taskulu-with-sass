@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__icons_analayzer" width="30" height="30" data-name="icons/analayzer" viewBox="0 0 30 30">
+    <path id="prefix__Rectangle_5826" d="M0 0H30V30H0z" data-name="Rectangle 5826" style="fill:none"/>
+    <g id="prefix__icons_stats_item_mystats_white" data-name="icons/stats/item_mystats_white" transform="translate(4.5 10)">
+        <path id="prefix__Path" d="M21 7h-3.5L14 0 8.167 10l-3.5-6-2.334 3H0" style="stroke:#18bfff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2.5px;fill:none"/>
+    </g>
+</svg>

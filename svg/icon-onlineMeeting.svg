@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-onlineMeeting" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#18bfff;stroke-linecap:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Path_10613" d="M0 0h30v30H0z" class="cls-1"/>
+    <g id="Imac_Computer" transform="translate(8 8)">
+        <path id="Path_18979" d="M0 0h16v16H0z" class="cls-1" transform="translate(-1 -1)"/>
+        <g id="Group_19883" transform="translate(-3 -3)">
+            <path id="Path_18980" d="M20.778 18.556H5.222A2.222 2.222 0 0 1 3 16.333V5.222A2.222 2.222 0 0 1 5.222 3h15.556A2.222 2.222 0 0 1 23 5.222v11.111a2.222 2.222 0 0 1-2.222 2.223z" class="cls-2" transform="translate(-3 -3)"/>
+            <path id="Path_18981" d="M14 17l.556 4.444" class="cls-2" transform="translate(-1.778 -1.444)"/>
+            <path id="Path_18982" d="M10.056 17L9.5 21.444" class="cls-2" transform="translate(-2.278 -1.444)"/>
+            <path id="Path_18983" d="M7.2 21h10.667" class="cls-2" transform="translate(-2.533 -1)"/>
+            <path id="Path_18984" d="M23 13.5H3" class="cls-2" transform="translate(-3 -1.278)"/>
+            <g id="Group_19882" transform="translate(6.111 2.778)">
+                <path id="Path_10587" d="M9.778 20.232l-.279-.7a2.56 2.56 0 0 0-.64-.932 2.564 2.564 0 0 0-1.743-.683H4.662a2.567 2.567 0 0 0-1.743.683 2.56 2.56 0 0 0-.64.932l-.279.7" class="cls-2" transform="translate(-2 -11.343)"/>
+                <path id="Path_10588" d="M7.069 12.57a1.945 1.945 0 1 1-2.75 0 1.945 1.945 0 0 1 2.75 0" class="cls-2" transform="translate(-1.806 -12)"/>
+            </g>
+        </g>
+    </g>
+</svg>
